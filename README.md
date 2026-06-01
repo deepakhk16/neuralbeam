@@ -11,7 +11,7 @@ under an allowable-stress constraint.
 ![cover](docs/cover.png)
 
 > Looking for the trained model + interactive Windows viewer (no Python install
-> required)? Grab the **$9 binary release on Gumroad** → **[NeuralBeam on Gumroad](https://gumroad.com/)**
+> required)? Grab the **$9 binary release on Gumroad** → **[NeuralBeam on Gumroad](https://deepakster722.gumroad.com/l/afutgn)**
 > *(replace with your published product URL)*
 
 ---
