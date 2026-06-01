@@ -137,7 +137,7 @@ The **$9 Gumroad release** adds:
   solver running side-by-side for comparison
 - README, license, third-party notices
 
-**[Get it on Gumroad — $9](https://gumroad.com/)** *(replace with your URL)*
+**[Get it on Gumroad — $9](https://deepakster722.gumroad.com/l/afutgn)** *(replace with your URL)*
 
 ## Who this is for
 
